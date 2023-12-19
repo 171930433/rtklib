@@ -6,3 +6,6 @@ Release
 Release_Build
 Debug_Build
 __history
+app/build-rtkplot_qt-Desktop-Debug/*
+build-src-Desktop-Debug/
+*.a
