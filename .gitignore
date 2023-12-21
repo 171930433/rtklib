@@ -9,3 +9,7 @@ __history
 app/build-rtkplot_qt-Desktop-Debug/*
 build-src-Desktop-Debug/
 *.a
+/build
+/devel
+.catkin_workspace
+/.vscode
